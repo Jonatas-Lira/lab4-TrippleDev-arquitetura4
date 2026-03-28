@@ -1,1 +1,8 @@
-# lab4-TrippleDev-arquitetura4
+# AQ4 API
+
+## 🚀 Run
+
+```bash
+npm install
+cp .env.example .env
+npm start
